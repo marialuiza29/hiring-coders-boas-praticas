@@ -1,32 +1,9 @@
-# Gama Academy :)
-## Template Node FullJS
+# Hiring Coders
+## Projeto Star Wars do Módulo de Boas Práticas
 
-Para iniciar o projeto:
-`git clone https://github.com/mrdouglasmorais/template-node-fulljs`
+Este foi um projeto desenvolvido no módulo de Boas Práticas do programa Hiring Coders 2021, instruído pelo Professor Douglas Morais.
 
-Para instalar as dependências:
-`npm i`
+Consiste em uma página o tema de Star Wars que contém duas sessions e é possível navegar entre as sessions clicando no Baby Yoda ou na Estrela da Morte do rodapé.
+Há também uma segunda página com o texto "Caro Jedi, bem-vindo à Ordem!" que pode ser acessada ao clicar no logo "Star Wars".
 
-Para iniciar em modo de desenvolvimento:
-`npm start`
-
-## Aconselhado ter instalado NODEJS versão 14.x em diante.
-
-## Arquitetura de componentes:
-`
-    |src -> 
-        | assets
-            | images
-            | sass
-        | css
-        | img
-        | service
-        | views
-            | components
-            | pages
-`
-
-Para instalar o node [clique aqui](https://nodejs.org/en/)
-
-Veja o projeto online, clique [aqui](https://hiring-coders-boas-praticas.vercel.app/)
-## Professor Douglas Morais
+Veja o projeto online, clicando [aqui](https://hiring-coders-boas-praticas.vercel.app/)
